@@ -1,0 +1,60 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/chunks/app/_not-found/page-38f1c6614b88b467.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/css/35b12cedd10c40cd.css",
+      "static/chunks/612-55a8c345319d3016.js",
+      "static/chunks/app/layout-b5485ee2627e4ac5.js"
+    ],
+    "/credits/page": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/chunks/612-55a8c345319d3016.js",
+      "static/chunks/app/credits/page-5de4b49c6483aee2.js"
+    ],
+    "/exonerations/page": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/chunks/612-55a8c345319d3016.js",
+      "static/chunks/app/exonerations/page-e666feea64ee72ac.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/chunks/612-55a8c345319d3016.js",
+      "static/chunks/app/contact/page-1cb4cf9813c494f4.js"
+    ],
+    "/taxes/page": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/chunks/612-55a8c345319d3016.js",
+      "static/chunks/app/taxes/page-9c01aab1a18e32c6.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-dff0b5a355df2fd5.js",
+      "static/chunks/ebe977ba-778b31b50acc3e12.js",
+      "static/chunks/411-11f6127797d1227d.js",
+      "static/chunks/main-app-e279fce022447f0b.js",
+      "static/chunks/612-55a8c345319d3016.js",
+      "static/chunks/app/page-3d96133959b10146.js"
+    ]
+  }
+}
